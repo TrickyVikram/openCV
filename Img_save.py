@@ -22,3 +22,4 @@ else:
     
     # Close all windows
     cv2.destroyAllWindows()
+    
